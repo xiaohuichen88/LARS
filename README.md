@@ -10,6 +10,14 @@ Least Angle Regression (LARS) algorithm computes the whole optimal path for the 
 
 LAR and Lasso whole paths for the diabetes data set used in [1].
 
+| ![diabetes_lar](./img/diabetes_lar.png) | 
+|:--:| 
+| *LAR path* |
+
+| ![diabetes_lasso](./img/diabetes_lasso.png) | 
+|:--:| 
+| *Lasso path* |
+
 
 <strong>Remark:</strong>
 
